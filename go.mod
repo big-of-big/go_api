@@ -1,4 +1,4 @@
-module rest_api
+module github.com/big-of-big/go_api
 
 go 1.17
 
